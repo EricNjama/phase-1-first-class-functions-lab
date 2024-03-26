@@ -17,7 +17,7 @@ store them in variables and data structures, and return them from other
 functions.
 
 For this lab, you will continue working on functions for our scooter-taxi
-client, Scuber.
+client, Scuber. 
 
 ## Instructions
 
